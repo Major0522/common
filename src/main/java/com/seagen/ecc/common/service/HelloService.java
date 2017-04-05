@@ -1,0 +1,11 @@
+package com.seagen.ecc.common.service;
+
+/**
+ * 模板,不要删除
+ * 
+ * @author kuangjianbo
+ * 
+ */
+public interface HelloService {
+	public String hello();
+}

@@ -1,0 +1,8 @@
+{
+	"ejbPacket":"ecc-ear", 
+    "locale":{
+        "language":"zh",
+        "country":"CN",
+        "countryCodePhone":"86"
+    }
+}
